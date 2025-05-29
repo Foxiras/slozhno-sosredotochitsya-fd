@@ -7,7 +7,7 @@
 :root.theme-light {
   --page-bg-color: url(../images/cover-image-light.png);
   --font-size: 1.125em;
-  --bg-color: #000028;
+  --bg-color: #FFC2E6;
   --accent-color: #353430;
   --accent-bg-color: #FF8DCB;
   --font-family: 'IBM Plex mono';
@@ -25,7 +25,7 @@
   :root {
     --page-bg-color: url(../images/cover-image-light.png);
   --font-size: 1.125em;
-  --bg-color: #000028;
+  --bg-color: #FFC2E6;
   --accent-color: #353430;
   --accent-bg-color: #FF8DCB;
   --font-family: 'IBM Plex mono';
