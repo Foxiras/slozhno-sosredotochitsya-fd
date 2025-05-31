@@ -5,12 +5,14 @@
   --accent-color: #FF0070;
   --border-button-color: rgba(255, 0, 112, 0.40);
   --accent-text-color: #FF0070;
+  --link-color: #F1B2CE;
   --accent-shadow-color: #FF0070;
   --accent-bg-color: #FF0070;
   --font-family: 'IBM Plex mono';
   --menu-button-active: #ff0070;
   --header-title: #DB00FF;
-  --text-color: #F1B2CE;
-  
+  --shadow-title: #FF0070;
+  --accent-bg-text-color: #000028;
+  --text-color: #f1b2ce;
 }
 

@@ -11,10 +11,13 @@
   --accent-color: #353430;
   --accent-text-color: #FF8DCB;
   --accent-bg-color: #FF8DCB;
+  --link-color: #353430;
   --menu-button-active: #353430;
   --header-title: #FFC2E6;
   --text-color: #353430;
   --accent-shadow-color: #FF8DCB;
+  --shadow-title: #FF0070;
+  --accent-bg-text-color: #353430;
 }
 
 .theme-light .header-decorated {
@@ -27,11 +30,15 @@
   --bg-color: #FFC2E6;
   --border-button-color: rgba(50, 49, 45, 0.40);
   --accent-color: #353430;
+  --accent-text-color: #FF8DCB;
   --accent-bg-color: #FF8DCB;
+  --link-color: #353430;
   --menu-button-active: #353430;
   --header-title: #FFC2E6;
   --text-color: #353430;
   --accent-shadow-color: #FF8DCB;
+  --shadow-title: #FF0070;
+  --accent-bg-text-color: #353430;
   }
 
   .header-decorated {
@@ -40,4 +47,3 @@
 
 
 }
-
