@@ -123,6 +123,9 @@
 .header__content {
   inline-size: 355px;
   margin-block-start: 54px;
+  justify-self: right;
+  min-height: 71px;
+  height: auto;
 }
 
 .header__text {
@@ -294,9 +297,8 @@
   .header__content {
     grid-column: 2;
     inline-size: 364px;
+    margin-block: auto 185px;
     margin-inline-end: 10px;
-    margin-block-start: 168px;
-    margin-block-end: 180px;
   }
 
   .section-focus {
@@ -426,12 +428,13 @@
   }
 
   .header__title {
-    margin-block-start: 275px;
+    margin-block-start: 0px;
+    margin-block-end: 40px;
   }
 
   .header__content {
     min-inline-size: 491px;
-    margin-block-start: 110px;
+    margin-block-end: 155px;
   }
 
   .section-focus {
