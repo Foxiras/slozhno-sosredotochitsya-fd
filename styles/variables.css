@@ -1,7 +1,7 @@
 :root {
   --page-bg-color: url(../images/cover-image-dark.png);
-  --font-size: 1.125em;
   --bg-color: #000028;
+  --font-size: 1.125em;
   --accent-color: #FF0070;
   --border-button-color: rgba(255, 0, 112, 0.40);
   --accent-text-color: #FF0070;
