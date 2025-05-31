@@ -7,6 +7,7 @@
 :root.theme-dark {
   --page-bg-color: url(../images/cover-image-dark.png);
   --bg-color: #000028;
+  --border-button-color: rgba(255, 0, 112, 0.40);
   --accent-color: #FF0070;
   --accent-text-color: #FF0070;
   --accent-bg-color: #FF0070;

@@ -7,6 +7,7 @@
 :root.theme-light {
   --page-bg-color: url(../images/cover-image-light.png);
   --bg-color: #FFC2E6;
+  --border-button-color: rgba(50, 49, 45, 0.40);
   --accent-color: #353430;
   --accent-text-color: #FF8DCB;
   --accent-bg-color: #FF8DCB;
@@ -24,6 +25,7 @@
   :root {
     --page-bg-color: url(../images/cover-image-light.png);
   --bg-color: #FFC2E6;
+  --border-button-color: rgba(50, 49, 45, 0.40);
   --accent-color: #353430;
   --accent-bg-color: #FF8DCB;
   --menu-button-active: #353430;

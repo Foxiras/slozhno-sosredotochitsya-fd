@@ -97,7 +97,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border: 1px solid currentColor;
+  border: 1px solid var(--border-button-color);
 }
 
 .header__theme-menu-button:focus {
